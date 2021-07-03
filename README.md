@@ -15,7 +15,7 @@ Table of Contents
     Getting Started
         <ul>
             <li>
-                Gearing Up
+                <a href="">Gearing Up</a>
             </li>
             <li>
                 Common CC Platforms
