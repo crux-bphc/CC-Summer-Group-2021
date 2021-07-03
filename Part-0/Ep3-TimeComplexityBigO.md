@@ -7,7 +7,7 @@ Time Complexity
 -----
 The time complexity of an algorithm gives an estimate of runtime. You can think of it as a rough way of saying how much time you think your code will take to run. It is denoted by O(f(N)) where f(N) is a function of input size N. As input size increases, constant coefficients and lower order terms start to matter less. This is why they are not mentioned in the Big-O notation. For example, if f(N) = 3(N^2) + 2N + 1, complexity is simply O(N^2).
 
-When we say the time complexity of an algorithm is O(f(N)) where N is the size of the input, you can roughly assume that the amount of time the code takes to execute roughly increaess as f(N) as the input increases linearly.
+When we say the time complexity of an algorithm is O(f(N)) where N is the size of the input, you can roughly assume that the amount of time the code takes to execute roughly increases as f(N), as the input increases linearly.
 
 Constant time: O(1)
 -----
