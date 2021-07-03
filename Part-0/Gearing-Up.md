@@ -12,7 +12,7 @@ __Sublime Text__ is our personal text editor of choice due to it's speed and min
 You may also choose to look at the following:
 
 1. VS Code Extension for CC: [https://github.com/agrawal-d/cph]
-2. Setting up Sublime Text for CC: [https://blog.codingblocks.com/2019/setting-up-a-c-competitive-programming-environment/]
+2. Hriday's guide to Sublime: [https://github.com/the-hyp0cr1t3/CC/blob/master/Setting%20up%20Sublime.md]
 
 Choosing a Language
 -----
