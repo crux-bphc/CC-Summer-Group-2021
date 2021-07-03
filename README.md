@@ -10,5 +10,5 @@ Table of Contents
 -----
 0. Getting Started
     * [Gearing up](/Part-0/Ep1-GearingUp.md)
-    * [Common CC Platforms](/Part-0/Ep2-CCPlatforms.md)
+    * [Common CC Platforms and Basic Practise Questions](/Part-0/Ep2-CCPlatforms.md)
     * [Time Complexity and the Big O Notation](/Part-0/Ep3-TimeComplexityBigO.md)
