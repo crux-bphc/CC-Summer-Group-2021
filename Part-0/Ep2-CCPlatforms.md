@@ -84,3 +84,26 @@ CodeChef is another popular platform. CodeChef hosts three kinds of contests:
 
 
 CodeChef has **three** rating divisions, and based on your rating, you are categorized into Division 1 or Division 2 or Division 3. Division 1 is rated for participants with rating >= 2000 and division 2 for participants with rating < 2000 and >= 1600 and division 3 for participants with rating < 1600.
+
+Practise Problems
+-----
+Here are a few problems for you to get started with, they're really simple and should help you understand how to submit code on the online platforms and practise basic coding skills:
+
+**Codeforces:**
+1. https://codeforces.com/problemset/problem/4/A
+2. https://codeforces.com/problemset/problem/71/A
+3. https://codeforces.com/problemset/problem/231/A
+4. https://codeforces.com/problemset/problem/158/A
+
+**AtCoder:**
+1. https://atcoder.jp/contests/abc127/tasks/abc127_a
+2. https://atcoder.jp/contests/abc126/tasks/abc126_a
+3. https://atcoder.jp/contests/abc125/tasks/abc125_a
+4. https://atcoder.jp/contests/abc124/tasks/abc124_a
+
+**CodeChef:**
+1. https://www.codechef.com/problems/HS08TEST
+2. https://www.codechef.com/problems/FLOW001
+3. https://www.codechef.com/problems/START01
+4. https://www.codechef.com/problems/FLOW006
+5. https://www.codechef.com/problems/INTEST
