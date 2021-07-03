@@ -60,7 +60,7 @@ Table of common complexities and their corresponding input sizes:
 ------
 ![Time Complexity][TC]
 
-[TC]: https://lh3.googleusercontent.com/proxy/mjoUz8uU0Bx47YInemMZD9Bo8kp86mMWGACLQYnTiNTb9ONYYTlqB7DF-RTsD66XOw1pEv1QzgC7DtCGxwHswfPMFULMdkfTPbli "Time Complexity"
+[TC]: https://res.cloudinary.com/practicaldev/image/fetch/s--VS7Kv-3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mfr441x473bzh75a1s8b.png "Time Complexity"
 
 Space Complexity
 -----
