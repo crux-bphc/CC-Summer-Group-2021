@@ -19,3 +19,9 @@ Table of Contents
    * [Implementation](/Part-1/Ep2-Implementation.md)
    * [Sorting Algorithms](/Part-1/Ep3-Sorting.md)
    * [Greedy Algorithms](/Part-1/Ep4-Greedy.md)
+
+2. Part Two:
+   * [Basic Math](/Part-2/Ep1-Basic-Math.md)
+   * [Prime and Sieves](/Part-2/Ep2-Prime-And-Sieve.md)
+   * [Euclid GCD and Euler Totient](/Part-2/Ep3-GCD-And-Totient.md)
+   * [Modular Arithmetic](/Part-2/Ep4-Modular-Arithmetic.md)
