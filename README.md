@@ -25,3 +25,8 @@ Table of Contents
    * [Prime and Sieves](/Part-2/Ep2-Prime-And-Sieve.md)
    * [Euclid GCD and Euler Totient](/Part-2/Ep3-GCD-And-Totient.md)
    * [Modular Arithmetic](/Part-2/Ep4-Modular-Arithmetic.md)
+
+3. Part Three:
+   * [Frequency Tables](/Part-3/Ep1-Freq-Table.md)
+   * [Prefix Sums](/Part-3/Ep2-Prefix-Sums.md)
+   * [Two Pointer + Sliding Window](/Part-3/Ep3-TwoP-Sliding-Window.md)

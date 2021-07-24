@@ -7,6 +7,8 @@ In fact, you'll often see problems asking you to report the answer modulo some n
 
 [Tutorial on Modular Arithmetic](https://codeforces.com/blog/entry/72527)
 
+[Tutorial on Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
+
 [Tutorial on Modular Inverse](https://cp-algorithms.com/algebra/module-inverse.html)
 
 -----
