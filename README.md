@@ -30,3 +30,7 @@ Table of Contents
    * [Frequency Tables](/Part-3/Ep1-Freq-Table.md)
    * [Prefix Sums](/Part-3/Ep2-Prefix-Sums.md)
    * [Two Pointer + Sliding Window](/Part-3/Ep3-TwoP-Sliding-Window.md)
+
+4. Part Four:
+   * [Binary Search](/Part-4/Ep1-Binary-Search.md)
+   * [Matrix Exponentiation](/Part-4/Ep2-Matrix-Expo.md)
