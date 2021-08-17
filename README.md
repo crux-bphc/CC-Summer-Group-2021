@@ -34,3 +34,6 @@ Table of Contents
 4. Part Four:
    * [Binary & Ternary Search](/Part-4/Ep1-Binary-Search.md)
    * [Matrix Exponentiation](/Part-4/Ep2-Matrix-Expo.md)
+
+5. Part Five:
+   * [Dynamic Programming](/Part-5/Ep1-DP.md)
