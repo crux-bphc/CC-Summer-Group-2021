@@ -37,3 +37,6 @@ Table of Contents
 
 5. Part Five:
    * [Dynamic Programming](/Part-5/Ep1-DP.md)
+
+6. Part Six:
+   * [Graphs and Graph Algorithms](/Part-6/Ep1-Graphs.md)
